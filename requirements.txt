@@ -1,0 +1,9 @@
+# CSC111 Winter 2021: Python libraries we'll be using this semester.
+
+# Testing and code checking
+hypothesis
+pytest
+python-ta~=1.6.3
+
+# Graphics and data visualization
+pygame~=2.0.1
