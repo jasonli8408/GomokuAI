@@ -6,7 +6,7 @@ This is a course project for CSC111 in Spring 2021, completed in a team of four.
 
 
 How to play Gomoku:
-1. Open main.py and click run button to run `main' Type the word `go' into the python console, then an empty
+1. Open main.py and click run button to run 'main' Type the word 'go' into the python console, then an empty
 board displayed by pygame will pop up.
 2. Click the left button of your mouse to place each stone you want to place (you are the white stone player and
 AI is the black stone player)
