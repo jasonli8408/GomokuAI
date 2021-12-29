@@ -15,9 +15,7 @@ AI is the black stone player)
 winner. After 3 seconds, the pygame window will quit.
 
 Result to show:
-1. After type `go' into the console, you will see an empty gray board with 15*15 grids of size.
-2. Each click will present a black or white stone with the particular number( the times which you place the
+1. After type 'go' into the console, you will see an empty gray board with 15*15 grids of size.
+2. Each click will present a black or white stone with the particular number (the times which you place the
 particular stone). A pink rectangle will act as a outline to remind the player of the last move.
-3. The  nal result will pop up a line of words which show who is the winner and the last two steps will also be
-highlighted by the pink rectangle. After 3 seconds, the pygame window will quit.
-4. In the console you can see who is the winner
+3. In the console you can see who is the winner once the game ends
