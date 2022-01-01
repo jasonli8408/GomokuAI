@@ -19,3 +19,8 @@ Result to show:
 2. Each click will present a black or white stone with the particular number (the times which you place the
 particular stone). A pink rectangle will act as a outline to remind the player of the last move.
 3. In the console you can see who is the winner once the game ends
+
+
+
+https://user-images.githubusercontent.com/32078486/147858028-de78edb5-ff9f-4e8e-bc9d-79196ad13872.mov
+
